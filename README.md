@@ -14,3 +14,4 @@
 - [2. 環境建置](http://mirdex.github.io/HTML_20230219/2.%20開發環境與html簡介.slides.html)
 - [3. 文字相關標籤](http://mirdex.github.io/HTML_20230219/3.%20文字相關的標籤.slides.html)
 - [4. 連結](http://mirdex.github.io/HTML_20230219/4.%20連結.slides.html)
+- [5. 圖像](http://mirdex.github.io/HTML_20230219/5.%20圖像.slides.html)
